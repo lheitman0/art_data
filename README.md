@@ -1,5 +1,6 @@
 # Painting Dataset
 A dataset of 32,435 historically significant paintings, including images and metadata.
+The folder of images is currently not included in this repo due to size limitations. It is hosted on Drive.
 
 ## Source
 
