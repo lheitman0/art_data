@@ -23,3 +23,11 @@ The image dataset compilation involved the following key steps:
 ### Known Bad Indices
 
 The following indices are known to be problematic: [11578, 11583]. It's recommended to exclude these when creating a zipped version of the dataset for analysis or model training.
+
+## Exploring Other Datasets
+### EDA of PNAS and Wikiart dataset
+- **PNAS Dataset**: Only Landscapes --> (rows, columns): (14912, 24)
+[https://www.pnas.org/doi/10.1073/pnas.2011927117?doi=10.1073%2Fpnas.2011927117](https://www.pnas.org/doi/10.1073/pnas.2011927117?doi=10.1073%2Fpnas.2011927117)
+- **Wikiart Dataset**: Wide ranging styles and genres --> (rows, columns): (81444, 3)
+[https://huggingface.co/datasets/huggan/wikiart](https://huggingface.co/datasets/huggan/wikiart)
+
